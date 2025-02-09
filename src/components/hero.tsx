@@ -34,14 +34,14 @@ const HeroSection = () => {
   
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
               <a
-                href="tel:+919876543210"
+                href="tel:+919440977892"
                 className="bg-[#FFB30F] hover:bg-[#e6a00e] text-black px-8 py-3 rounded-full text-lg font-bold transition-colors duration-300 animate__animated animate__pulse animate__infinite"
               >
                 Call Now / తక్షణమే కాల్ చేయండి
               </a>
   
               <a
-                href="https://wa.me/+917095453352"
+                href="https://wa.me/+919440977892"
                 className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-8 py-3 rounded-full text-lg font-bold transition-colors duration-300 flex items-center justify-center gap-2"
               >
                 <svg

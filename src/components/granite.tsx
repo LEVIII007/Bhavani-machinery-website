@@ -42,14 +42,14 @@ const GraniteSection = () => {
             {/* Contact Options */}
             <div className="flex flex-col gap-4">
               <a
-                href="tel:+919876543210"
+                href="tel:+919440977892"
                 className="w-full text-center bg-[#2C5F2D] hover:bg-[#234b24] text-white px-8 py-4 rounded-lg text-lg font-bold transition-colors duration-300 flex items-center justify-center gap-2"
               >
                 📞 Call for Inquiry / వివరాలకు కాల్ చేయండి
               </a>
 
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919440977892"
                 className="w-full text-center bg-[#25D366] hover:bg-[#20bd5a] text-white px-8 py-4 rounded-lg text-lg font-bold transition-colors duration-300 flex items-center justify-center gap-2"
               >
                 💬 WhatsApp Inquiry / వాట్సాప్ ద్వారా సంప్రదించండి
