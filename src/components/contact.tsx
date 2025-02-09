@@ -60,14 +60,14 @@ const ContactSection = () => {
 
             <div className="flex flex-col gap-4">
               <a
-                href="tel:+919876543210"
+                href="tel:+919440977892"
                 className="flex items-center justify-center gap-2 bg-[#2C5F2D] hover:bg-[#234b24] text-white px-6 py-4 rounded-lg text-lg font-bold transition-colors duration-300"
               >
                 📞 Call Now / ఇప్పుడే కాల్ చేయండి
               </a>
 
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919440977892"
                 className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-4 rounded-lg text-lg font-bold transition-colors duration-300"
               >
                 💬 WhatsApp / వాట్సాప్
